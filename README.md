@@ -1,7 +1,9 @@
 # Segurança de Redes e Sistemas (2023/2024)
 ## Ferramentas
 [<kbd> <br> **Moodle** <br> </kbd>](https://moodle.maieutica.pt/course/view.php?id=17062)
-- Cisco Packet Tracer
+### Cisco Packet Tracer
+- E-mail: A038702@ipmaia.pt
+- Pass: Rafaello123.
 ## Informações da Disciplina
 ### Descrição 
 1. Aquisição de conhecimentos básicos na área da Segurança de Redes e Sistemas.
